@@ -36,7 +36,7 @@ Côté Android :
 Utilisation
 
 1. Flasher le STM32
-Charge ce code sur le STM32 : main.py
+   Charge ce code sur le STM32 : main.py
 
 2. Via une console série envoyer les commandes suivantes :
    -ctrl + C
