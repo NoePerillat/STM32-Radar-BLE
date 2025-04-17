@@ -41,19 +41,18 @@ Utilisation
 
 3. Via une console série envoyer les commandes suivantes :
    
-   -ctrl + C
-   
-   -ctrl + D
+- ctrl + C 
+- ctrl + D
 
 5. Installer l'application android :
    
    Configurer les autorisations de position et nearby devices
 
 7. Lancer l'application :
+
+- Effectuer une recherche devices BLE
    
-   -Effectuer une recherche devices BLE
+- Choisir la device "Nucleo_WB55_Noe"
    
-   -Choisir la device "Nucleo_WB55_Noe"
-   
-   -Attendre quelques secondes la première valeur
+- Attendre quelques secondes la première valeur
 
