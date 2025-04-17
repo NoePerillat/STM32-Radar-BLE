@@ -52,6 +52,8 @@ Utilisation
 7. Lancer l'application :
    
    -Effectuer une recherche devices BLE
+   
    -Choisir la device "Nucleo_WB55_Noe"
+   
    -Attendre quelques secondes la première valeur
 
