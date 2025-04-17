@@ -42,6 +42,7 @@ Utilisation
 3. Via une console série envoyer les commandes suivantes :
    
    -ctrl + C
+   
    -ctrl + D
 
 5. Installer l'application android :
